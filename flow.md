@@ -1,2 +1,2 @@
-https://verif2go.org/ (DL gen)
-https://www.dataannotation.tech/
+- https://verif2go.org/ (DL gen)
+- https://www.dataannotation.tech/
