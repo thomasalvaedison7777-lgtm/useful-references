@@ -2,7 +2,7 @@
 - https://verif2go.org/ (DL gen)
 
 ## Diploma
-- trustidcard.com
+- https://trustidcard.com/
 
 ## DataAnnotation
 - https://www.dataannotation.tech/
