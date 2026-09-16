@@ -1,3 +1,9 @@
+## Search LinkedIn profile and detailed info
+- https://rocketreach.co/
+- https://www.fastpeoplesearch.com/
+- https://nationalpublicdata.com/
+- https://www.truepeoplesearch.com/
+
 ## DL
 - https://verif2go.org/ (DL gen)
 
